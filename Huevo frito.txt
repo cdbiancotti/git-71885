@@ -3,4 +3,5 @@ Receta de Huevo frito
 Ingredientes:
 1. Huevos
 2. Aceite
-3. Provenzal
+3. Sal
+4. Provenzal
